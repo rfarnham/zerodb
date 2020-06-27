@@ -1,0 +1,9 @@
+[submodule "extern/czmq"]
+	path = extern/czmq
+	url = ../../zeromq/czmq.git
+[submodule "extern/libzmq"]
+	path = extern/libzmq
+	url = ../../zeromq/libzmq.git
+[submodule "extern/leveldb"]
+	path = extern/leveldb
+	url = ../../google/leveldb.git
